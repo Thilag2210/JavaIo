@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Thilagaraj
- *
- */
-module InnerClass {
-}
